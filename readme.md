@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-kumar-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-kumar-prajapati" /> </p>
 
-- 🔭 I’m currently working on [Watch Together](https://github.com/Dheeraj-kumar-prajapati/Watch-Together)
-
-- 🌱 I’m currently learning **WEBRTC , React.JS**
-
 - 👨‍💻 All of my projects are available at : [https://github.com/Dheeraj-kumar-prajapati/](https://github.com/Dheeraj-kumar-prajapati/)
 
 - 📫 How to reach me **dheeraj4505kumar@gmail.com**
